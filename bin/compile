@@ -87,6 +87,7 @@ case "$stack" in
       libxdamage1
       libxfixes3
       libxi6
+      libxshmfence1
       libxinerama1
       libxrandr2
       libxss1
